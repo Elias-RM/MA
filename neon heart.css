@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background: linear-gradient(to bottom, #3b0066, #000000);
+    display: flex; justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+.text {
+    position: absolute;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 3rem;
+    z-index: 1;
+    text-shadow: 0 0 5px #fff, 0 0 10px #ff0080, 0 0 20px #ff0080;
+}
