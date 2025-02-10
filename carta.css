@@ -21,7 +21,7 @@ body {
 
 .btn { 
     padding: 20px 30px; 
-    font-size: 80px; 
+    font-size: 50px; 
     background-color:blue; 
     color: red; 
     border: red; 
@@ -48,7 +48,7 @@ p{
     top: 15%; 
     left: 40%; 
     color: red; 
-    font-size: 70px; 
+    font-size: 20px; 
     font-weight: bold; 
     text-align: left; 
 }
