@@ -46,7 +46,7 @@ p{
 .text-overlay { 
     position: absolute; 
     top: 15%; 
-    left: 35%; 
+    left: 50%; 
     color: red; 
     font-size: 15px; 
     font-weight: bold; 
