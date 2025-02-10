@@ -1,0 +1,56 @@
+body { 
+    font-family: 'Arial', sans-serif; 
+    background-color: black; 
+    text-align: center; 
+    padding: 70px; 
+} 
+
+.stage { 
+    margin-top: 70px; 
+} 
+
+.hidden { 
+    display: none; 
+} 
+
+.image { 
+    width: 30%;
+    height: auto; 
+    border-radius: 5px; 
+} 
+
+.btn { 
+    padding: 20px 30px; 
+    font-size: 80px; 
+    background-color:blue; 
+    color: red; 
+    border: red; 
+    border-radius: 70px; 
+    cursor: pointer; 
+    margin-top: 80px; 
+} 
+
+p{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.image-container { 
+    position: relative; 
+    display: inline-block;
+    width: 100%;
+    height: auto; 
+} 
+
+.text-overlay { 
+    position: absolute; 
+    top: 15%; 
+    left: 40%; 
+    color: red; 
+    font-size: 70px; 
+    font-weight: bold; 
+    text-align: left; 
+}
+
+
